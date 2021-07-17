@@ -101,7 +101,7 @@ body {
 }
 
 .pokemon-ability {
-    /* display: none; */
+    display: none;
     background-color: var(--gray);
     padding: 20px;
     font-size: 0.8em;
