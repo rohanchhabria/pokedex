@@ -94,7 +94,7 @@ function rendercards(pokemons) {
 
 
 (async () => {
-    renderskeletons(pokemoncount);
+//     renderskeletons(pokemoncount);
     let data = await getpokemons();
     rendercards(data);
 })();
